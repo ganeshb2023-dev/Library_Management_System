@@ -1,2 +1,5 @@
-def register_student(name):
-    print(f"Student {name} registered successfully")
+def login(username, password):
+    if username == "admin" and password == "admin123":
+        print("Login successful")
+    else:
+        print("Invalid credentials")
