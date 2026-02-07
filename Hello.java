@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins Java Build");
+        System.out.println("Mini CI Project Executed Successfully");
     }
 }
+
